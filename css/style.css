@@ -406,6 +406,7 @@ span{
 }
 .certifications{
     background: var(--second-bg-color);
+    padding-left: 5px; 
 }
 .certifications-box{
     background-size: cover;
